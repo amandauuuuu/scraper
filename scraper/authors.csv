@@ -1,0 +1,2399 @@
+Author
+Hao Sun
+Zhendong Su
+Biao Sun
+Ziming Huang
+Hanyu Zhao
+Wencong Xiao
+Xinyi Zhang
+Yong Li
+Wei Lin
+Ying Sheng
+Shiyi Cao
+Dacheng Li
+Banghua Zhu
+Zhuohan Li
+Danyang Zhuo
+Joseph E. Gonzalez
+Ion Stoica
+Yuhong Zhong
+Daniel S. Berger
+Carl Waldspurger
+Ryan Wee
+Ishwar Agarwal
+Rajat Agarwal
+Frank Hady
+Karthik Kumar
+Mark D. Hill
+Mosharaf Chowdhury
+Asaf Cidon
+Wen Zhang
+Scott Shenker
+Irene Zhang
+Haoran Zhang
+Adney Cardoza
+Peter Baile Chen
+Sebastian Angel
+Vincent Liu
+Dario Korolija
+Timothy Roscoe
+Gustavo Alonso
+Yunhao Zhang
+Srinath Setty
+Qi Chen
+Lidong Zhou
+Lorenzo Alvisi
+Inho Cho
+Ahmed Saeed
+Joshua Fried
+Seo Jin Park
+Mohammad Alizadeh
+Adam Belay
+Juncheng Yang
+Yao Yue
+K. V. Rashmi
+Haonan Lu
+Siddhartha Sen
+Wyatt Lloyd
+Xiaojian Liao
+Youyou Lu
+Erci Xu
+Jiwu Shu
+Solal Pirelli
+George Candea
+Wencong Xiao
+Shiru Ren
+Yong Li
+Yang Zhang
+Pengyang Hou
+Zhi Li
+Yihui Feng
+Wei Lin
+Yangqing Jia
+Sambhav Satija
+Apurv Mehra
+Sudheesh Singanamalla
+Karan Grover
+Muthian Sivathanu
+Nishanth Chandran
+Divya Gupta
+Satya Lokam
+Yifan Dai
+Yien Xu
+Aishwarya Ganesan
+Ramnatthan Alagappan
+Brian Kroth
+Andrea Arpaci-Dusseau
+Remzi Arpaci-Dusseau
+Jiaxin Lin
+Kiran Patel
+Brent E. Stephens
+Anirudh Sivaraman
+Aditya Akella
+Khiem Ngo
+Siddhartha Sen
+Wyatt Lloyd
+Jonathan Behrens
+Anton Cao
+Cel Skeggs
+Adam Belay
+M. Frans Kaashoek
+Nickolai Zeldovich
+Edo Roth
+Hengchu Zhang
+Andreas Haeberlen
+Benjamin C. Pierce
+Luke Nelson
+Jacob Van Geffen
+Emina Torlak
+Xi Wang
+Mohammed Alfatafta
+Basil Alkhatib
+Ahmed Alquraan
+Samer Al-Kiswany
+Fabian Ruffy
+Tao Wang
+Anirudh Sivaraman
+Yujie Ren
+Changwoo Min
+Sudarsun Kannan
+Nofel Yaseen
+Behnaz Arzani
+Ryan Beckett
+Selim Ciraci
+Vincent Liu
+Cheng Tan
+Changgeng Zhao
+Shuai Mu
+Michael Walfish
+Joshua Fried
+Zhenyuan Ruan
+Amy Ousterhout
+Adam Belay
+Manuel Rigger
+Zhendong Su
+Mingzhe Hao
+Levent Toksoz
+Nanqinqin Li
+Edward Edberg Halim
+Henry Hoffmann
+Haryadi S. Gunawi
+Deepak Narayanan
+Keshav Santhanam
+Fiodar Kazhamiaka
+Amar Phanishayee
+Matei Zaharia
+Emma Dauterman
+Henry Corrigan-Gibbs
+David Mazières
+Yigong Hu
+Gongqi Huang
+Peng Huang
+Luo Mai
+Guo Li
+Marcel Wagenländer
+Konstantinos Fertakis
+Andrei-Octavian Brabete
+Peter Pietzuch
+Supun Nakandala
+Karla Saur
+Gyeong-In Yu
+Konstantinos Karanasos
+Carlo Curino
+Markus Weimer
+Matteo Interlandi
+Haoran Qiu
+Subho S. Banerjee
+Saurabh Jha
+Zbigniew T. Kalbarczyk
+Ravishankar K. Iyer
+Kevin Boos
+Namitha Liyanage
+Ramla Ijaz
+Lin Zhong
+Jialin Li
+Jacob Nelson
+Ellis Michael
+Xin Jin
+Dan R. K. Ports
+Zhipeng Zhao
+Hugo Sadok
+Nirav Atre
+James C. Hoe
+Vyas Sekar
+Justine Sherry
+Saurabh Kadekodi
+Francisco Maturana
+Suhas Jayaram Subramanya
+Juncheng Yang
+K. V. Rashmi
+Gregory R. Ganger
+AIFM: High-Performance
+Application-Integrated Far Memory
+Zhenyuan Ruan
+Malte Schwarzkopf
+Marcos K. Aguilera
+Adam Belay
+Xudong Sun
+Runxiang Cheng
+Jianyan Chen
+Elaine Ang
+Owolabi Legunsen
+Tianyin Xu
+Sebastien Levy
+Randolph Yao
+Youjiang Wu
+Yingnong Dang
+Peng Huang
+Zheng Mu
+Pu Zhao
+Tarun Ramani
+Naga Govindaraju
+Xukun Li
+Qingwei Lin
+Gil Lapid Shafriri
+Murali Chintalapati
+Xingda Wei
+Rong Chen
+Haibo Chen
+Vikram Narayanan
+Tianjiao Huang
+David Detweiler
+Dan Appel
+Zhaofeng Li
+Gerd Zellweger
+Anton Burtsev
+Yuliang Li
+Gautam Kumar
+Hema Hariharan
+Hassan Wassel
+Peter Hochschild
+Dave Platt
+Simon Sabato
+Minlan Yu
+Nandita Dukkipati
+Prashant Chandra
+Amin Vahdat
+Yimin Jiang
+Yibo Zhu
+Chang Lan
+Bairen Yi
+Yong Cui
+Chuanxiong Guo
+Partho Sarthi
+Kaushik Rajan
+Akash Lal
+Abhishek Modi
+Prakhar Jain
+Mo Liu
+Ashit Gosalia
+Saurabh Kalikar
+Benjamin Berg
+Daniel S. Berger
+Sara McAllister
+Isaac Grosof
+Sathya Gunasekar
+Jimmy Lu
+Michael Uhlar
+Jim Carrig
+Nathan Beckmann
+Mor Harchol-Balter
+Gregory R. Ganger
+Pradeep Ambati
+Íñigo Goiri
+Felipe Frujeri
+Alper Gun
+Ke Wang
+Brian Dolan
+Brian Corell
+Sekhar Pasupuleti
+Thomas Moscibroda
+Sameh Elnikety
+Marcus Fontoura
+Ricardo Bianchini
+Travis Hance
+Andrea Lattuada
+Chris Hawblitzel
+Jon Howell
+Rob Johnson
+Bryan Parno
+Ori Hadary
+Luke Marshall
+Ishai Menache
+Abhisek Pan
+Esaias E Greeff
+David Dion
+Star Dorminey
+Shailesh Joshi
+Yang Chen
+Mark Russinovich
+Thomas Moscibroda
+Lalith Suresh
+João Loff
+Faria Kalim
+Sangeetha Abdu Jyothi
+Nina Narodytska
+Leonid Ryzhyk
+Sahan Gamage
+Brian Oki
+Pranshu Jain
+Michael Gasch
+Chenxi Wang
+Haoran Ma
+Shi Liu
+Yuanqi Li
+Zhenyuan Ruan
+Khanh Nguyen
+Michael D. Bond
+Ravi Netravali
+Miryung Kim
+Guoqing Harry Xu
+Mahesh Balakrishnan
+Jason Flinn
+Chen Shen
+Mihir Dharamshi
+Ahmed Jafri
+Xiao Shi
+Santosh Ghosh
+Hazem Hassan
+Aaryaman Sagar
+Rhed Shi
+Jingming Liu
+Filip Gruszczynski
+Xianan Zhang
+Huy Hoang
+Ahmed Yossef
+Francois Richard
+Yee Jiun Song
+Thomas E. Anderson
+Marco Canini
+Jongyul Kim
+Dejan Kostić
+Youngjin Kwon
+Simon Peter
+Waleed Reda
+Henry N. Schuh
+Emmett Witchel
+Arpan Gujarati
+Reza Karimi
+Safya Alzayat
+Wei Hao
+Antoine Kaufmann
+Ymir Vigfusson
+Jonathan Mace
+Zhihao Bai
+Zhen Zhang
+Yibo Zhu
+Xin Jin
+Hang Zhu
+Kostis Kaffes
+Zixu Chen
+Zhenming Liu
+Christos Kozyrakis
+Ion Stoica
+Xin Jin
+Andrew Chung
+Subru Krishnan
+Konstantinos Karanasos
+Carlo Curino
+Gregory R. Ganger
+Thunderbolt: Throughput-Optimized
+Quality-of-Service-Aware Power Capping at Scale
+Shaohong Li
+Xi Wang
+Xiao Zhang
+Vasileios Kontorinis
+Sreekumar Kodakara
+David Lo
+Parthasarathy Ranganathan
+Marcos K. Aguilera
+Naama Ben-David
+Rachid Guerraoui
+Virendra J. Marathe
+Athanasios Xygkis
+Igor Zablotchi
+Xiao Shi
+Scott Pruett
+Kevin Doherty
+Jinyu Han
+Dmitri Petrov
+Jim Carrig
+John Hugg
+Nathan Bronson
+Baptiste Lepers
+Oana Balmau
+Karan Gupta
+Willy Zwaenepoel
+Quanlu Zhang
+Zhenhua Han
+Fan Yang
+Yuge Zhang
+Zhe Liu
+Mao Yang
+Lidong Zhou
+Emma Dauterman
+Eric Feng
+Ellen Luo
+Raluca Ada Popa
+Ion Stoica
+Ian Neal
+Ben Reeves
+Ben Stoler
+Andrew Quinn
+Youngjin Kwon
+Simon Peter
+Baris Kasikci
+Yun-Sheng Chang
+Yao Hsiao
+Tzu-Chi Lin
+Che-Wei Tsao
+Chun-Feng Wu
+Yuan-Hao Chang
+Hsiang-Shang Ko
+Yu-Fang Chen
+FVM: FPGA-assisted Virtual Device Emulation for Fast
+Scalable
+and Flexible Storage Virtualization
+Dongup Kwon
+Junehyuk Boo
+Dongryeong Kim
+Jangwoo Kim
+Lingxiao Ma
+Zhiqiang Xie
+Zhi Yang
+Jilong Xue
+Youshan Miao
+Wei Cui
+Wenxiang Hu
+Fan Yang
+Lintao Zhang
+Lidong Zhou
+Florian Rommel
+Christian Dietrich
+Birte Friesel
+Marcel Köppen
+Christoph Borchert
+Michael Müller
+Olaf Spinczyk
+Daniel Lohmann
+Marco Spaziani Brunella
+Giacomo Belocchi
+Marco Bonola
+Salvatore Pontarelli
+Giuseppe Siracusano
+Giuseppe Bianchi
+Aniello Cammarano
+Alessandro Palumbo
+Luca Petrucci
+Roberto Bifulco
+Chunqiang Tang
+Kenny Yu
+Kaushik Veeraraghavan
+Jonathan Kaldor
+Scott Michelson
+Thawan Kooburat
+Aravind Anbudurai
+Matthew Clark
+Kabir Gogia
+Long Cheng
+Ben Christensen
+Alex Gartrell
+Maxim Khutornenko
+Sachin Kulkarni
+Marcin Pawlowski
+Tuomas Pelkonen
+Andre Rodrigues
+Rounak Tibrewal
+Vaishnavi Venkatesan
+Peter Zhang
+Lianmin Zheng
+Chengfan Jia
+Minmin Sun
+Zhao Wu
+Cody Hao Yu
+Ameer Haj-Ali
+Yida Wang
+Jun Yang
+Danyang Zhuo
+Koushik Sen
+Joseph E. Gonzalez
+Ion Stoica
+Hanyu Zhao
+Zhenhua Han
+Zhi Yang
+Quanlu Zhang
+Fan Yang
+Lidong Zhou
+Mao Yang
+Francis C.M. Lau
+Yuqi Wang
+Yifan Xiong
+Bin Wang
+LegoOS: A Disseminated
+Distributed OS for Hardware Resource Disaggregation
+Yizhou Shan
+Yutong Huang
+Yilun Chen
+Yiying Zhang
+Peng Huang
+Chuanxiong Guo
+Jacob R. Lorch
+Lidong Zhou
+Yingnong Dang
+Philipp Moritz
+Robert Nishihara
+Stephanie Wang
+Alexey Tumanov
+Richard Liaw
+Eric Liang
+Melih Elibol
+Zongheng Yang
+William Paul
+Michael I. Jordan
+Ion Stoica
+Ranjita Bhagwan
+Rahul Kumar
+Chandra Sekhar Maddila
+Adithya Abraham Philip
+David Lazar
+Yossi Gilad
+Nickolai Zeldovich
+Fang Zhou
+Yifan Gan
+Sixiang Ma
+Yang Wang
+Natacha Crooks
+Matthew Burke
+Ethan Cecchetti
+Sitar Harel
+Rachit Agarwal
+Lorenzo Alvisi
+Srinath Setty
+Sebastian Angel
+Trinabh Gupta
+Jonathan Lee
+Phitchaya Mangpo Phothilimthana
+Ming Liu
+Antoine Kaufmann
+Simon Peter
+Rastislav Bodik
+Thomas Anderson
+Cody Cutler
+M. Frans Kaashoek
+Robert T. Morris
+Yunseong Lee
+Alberto Scolari
+Byung-Gon Chun
+Marco Domenico Santambrogio
+Markus Weimer
+Matteo Interlandi
+Muthukaruppan Annamalai
+Kaushik Ravichandran
+Harish Srinivas
+Igor Zinkovsky
+Luning Pan
+Tony Savor
+David Nagle
+Michael Stumm
+ASAP: Fast
+Approximate Graph Pattern Mining at Scale
+Anand Padmanabha Iyer
+Zaoxing Liu
+Xin Jin
+Shivaram Venkataraman
+Vladimir Braverman
+Ion Stoica
+Fault-Tolerance
+Fast and Slow: Exploiting Failure Asynchrony in Distributed Systems
+Ramnatthan Alagappan
+Aishwarya Ganesan
+Jing Liu
+Andrea Arpaci-Dusseau
+Remzi Arpaci-Dusseau
+Helgi Sigurbjarnarson
+Luke Nelson
+Bruno Castro-Karney
+James Bornholt
+Emina Torlak
+Xi Wang
+Akshitha Sriraman
+Thomas F. Wenisch
+Hyunho Yeo
+Youngmok Jung
+Jaehong Kim
+Jinwoo Shin
+Dongsu Han
+Ahmed Alquraan
+Hatem Takruri
+Mohammed Alfatafta
+Samer Al-Kiswany
+Aleksander Maricq
+Dmitry Duplyakin
+Ivo Jimenez
+Carlos Maltzahn
+Ryan Stutsman
+Robert Ricci
+Ana Klimovic
+Yawen Wang
+Patrick Stuedi
+Animesh Trivedi
+Jonas Pfefferle
+Christos Kozyrakis
+Tej Chajed
+Frans Kaashoek
+Butler Lampson
+Nickolai Zeldovich
+Atalay Ileri
+Tej Chajed
+Adam Chlipala
+Frans Kaashoek
+Nickolai Zeldovich
+Stavros Volos
+Kapil Vaswani
+Rodrigo Bruno
+Kai Wang
+Zhiqiang Zuo
+John Thorpe
+Tien Quang Nguyen
+Guoqing Harry Xu
+Suli Yang
+Jing Liu
+Andrea C. Arpaci-Dusseau
+Remzi H. Arpaci-Dusseau
+Kiwan Maeng
+Brandon Lucia
+Henry Qin
+Qian Li
+Jacqueline Speiser
+Peter Kraft
+John Ousterhout
+Three steps is all you need: fast
+accurate
+automatic scaling decisions for distributed streaming dataflows
+Vasiliki Kalavri
+John Liagouris
+Moritz Hoffmann
+Desislava Dimitrova
+Matthew Forshaw
+Timothy Roscoe
+Radhesh Krishnan Konoth
+Marco Oliverio
+Andrei Tatar
+Dennis Andriesse
+Herbert Bos
+Cristiano Giuffrida
+Kaveh Razavi
+Chinmay Kulkarni
+Sara Moore
+Mazhar Naqvi
+Tian Zhang
+Robert Ricci
+Ryan Stutsman
+Xingda Wei
+Zhiyuan Dong
+Rong Chen
+Haibo Chen
+Andrew Quinn
+Jason Flinn
+Michael Cafarella
+Kshiteej Mahajan
+Mosharaf Chowdhury
+Aditya Akella
+Shuchi Chawla
+Noria: dynamic
+partially-stateful data-flow for high-performance web applications
+Jon Gjengset
+Malte Schwarzkopf
+Jonathan Behrens
+Lara Timbó Araújo
+Martin Ek
+Eddie Kohler
+M. Frans Kaashoek
+Robert Morris
+Gregory Essertel
+Ruby Tahboub
+James Decker
+Kevin Brown
+Kunle Olukotun
+Tiark Rompf
+Joshua Lockerman
+Jose M. Faleiro
+Juno Kim
+Soham Sankaran
+Daniel J. Abadi
+James Aspnes
+Siddhartha Sen
+Mahesh Balakrishnan
+Tianqi Chen
+Thierry Moreau
+Ziheng Jiang
+Lianmin Zheng
+Eddie Yan
+Haichen Shen
+Meghan Cowan
+Leyuan Wang
+Yuwei Hu
+Luis Ceze
+Carlos Guestrin
+Arvind Krishnamurthy
+Daniel S. Berger
+Benjamin Berg
+Timothy Zhu
+Siddhartha Sen
+Mor Harchol-Balter
+Jayashree Mohan
+Ashlie Martinez
+Soujanya Ponnapalli
+Pandian Raju
+Vijay Chidambaram
+Kevin Hsieh
+Ganesh Ananthanarayanan
+Peter Bodik
+Shivaram Venkataraman
+Paramvir Bahl
+Matthai Philipose
+Phillip B. Gibbons
+Onur Mutlu
+Kaushik Veeraraghavan
+Justin Meza
+Scott Michelson
+Sankaralingam Panneerselvam
+Alex Gyori
+David Chou
+Sonia Margulis
+Daniel Obenshain
+Shruti Padmanabha
+Ashish Shah
+Yee Jiun Song
+Tianyin Xu
+Pengfei Zuo
+Yu Hua
+Jie Wu
+Weidong Cui
+Xinyang Ge
+Baris Kasikci
+Ben Niu
+Upamanyu Sharma
+Ruoyu Wang
+Insu Yun
+Wencong Xiao
+Romil Bhardwaj
+Ramachandran Ramjee
+Muthian Sivathanu
+Nipun Kwatra
+Zhenhua Han
+Pratyush Patel
+Xuan Peng
+Hanyu Zhao
+Quanlu Zhang
+Fan Yang
+Lidong Zhou
+Jie Zhang
+Miryeong Kwon
+Donghyun Gouk
+Sungjoon Koh
+Changlim Lee
+Mohammad Alian
+Myoungjun Chun
+Mahmut Taylan Kandemir
+Nam Sung Kim
+Jihong Kim
+Myoungsoo Jung
+Sharing
+Protection
+and Compatibility for Reconfigurable Fabric with AmorphOS
+Ahmed Khawaja
+Joshua Landgraf
+Rohith Prakash
+Michael Wei
+Eric Schkufza
+Christopher J. Rossbach
+Dan Schatzberg
+James Cadden
+Han Dong
+Orran Krieger
+Jonathan Appavoo
+Xu Zhao
+Kirk Rodrigues
+Yu Luo
+Ding Yuan
+Michael Stumm
+Robert Grandl
+Mosharaf Chowdhury
+Aditya Akella
+Ganesh Ananthanarayanan
+Firmament: Fast
+Centralized Cluster Scheduling at Scale
+Ionel Gog
+Malte Schwarzkopf
+Adam Gleave
+Robert N. M. Watson
+Steven Hand
+Robert Grandl
+Srikanth Kandula
+Sriram Rao
+Aditya Akella
+Janardhan Kulkarni
+Helgi Sigurbjarnarson
+James Bornholt
+Emina Torlak
+Xi Wang
+Jialin Li
+Ellis Michael
+Naveen Kr. Sharma
+Adriana Szekeres
+Dan R. K. Ports
+David Lazar
+Nickolai Zeldovich
+Peter X. Gao
+Akshay Narayan
+Sagar Karandikar
+Joao Carreira
+Sangjin Han
+Rachit Agarwal
+Sylvia Ratnasamy
+Scott Shenker
+Yunqi Zhang
+George Prekas
+Giovanni Matteo Fumarola
+Marcus Fontoura
+Inigo Goiri
+Ricardo Bianchini
+Mingxing Zhang
+Yongwei Wu
+Kang Chen
+Xuehai Qian
+Xue Li
+Weimin Zheng
+FaSST: Fast
+Scalable and Simple Distributed Transactions with Two-Sided (RDMA) Datagram RPCs
+Anuj Kalia
+Michael Kaminsky
+David G. Andersen
+Joel Van Der Woude
+Matthew Hicks
+Khanh Nguyen
+Lu Fang
+Guoqing Xu
+Brian Demsky
+Shan Lu
+Sanazsadat  Alamian
+Onur Mutlu
+Sebastian Angel
+Srinath Setty
+Diamond:  Automating Data Management and Storage for Wide-Area
+Reactive Applications
+Irene Zhang
+Niel Lebeck
+Pedro Fonseca
+Brandon Holt
+Raymond Cheng
+Ariadna Norberg
+Arvind Krishnamurthy
+Henry M. Levy
+Youngjin Kwon
+Hangchen Yu
+Simon Peter
+Christopher J. Rossbach
+Emmett Witchel
+Aurojit Panda
+Sangjin Han
+Keon Jang
+Melvin Walls
+Sylvia Ratnasamy
+Scott Shenker
+Praveen Tammana
+Rachit Agarwal
+Myungjin Lee
+Tyler Hunt
+Zhiting Zhu
+Yuanzhong Xu
+Simon Peter
+Emmett Witchel
+Stefan Kaestle
+Reto Achermann
+Roni Haecki
+Moritz Hoffmann
+Sabela Ramos
+Timothy Roscoe
+Rachid Guerraoui
+Matej Pavlovic
+Dragos-Adrian Seredinschi
+Ramnatthan Alagappan
+Aishwarya Ganesan
+Yuvraj Patel
+Thanumalayan Sankaranarayana Pillai
+Andrea C. Arpaci-Dusseau
+Remzi H.  Arpaci-Dusseau
+Barry Porter
+Matthew Grieves
+Roberto Rodrigues Filho
+David Leslie
+Raajay Viswanathan
+Ganesh Ananthanarayanan
+Aditya Akella
+Kaushik Veeraraghavan
+Justin Meza
+David Chou
+Wonho Kim
+Sonia Margulis
+Scott Michelson
+Rajesh Nishtala
+Daniel Obenshain
+Dmitri Perelman
+Yee Jiun Song
+Seyed K. Fayaz
+Tushar Sharma
+Ari Fogel
+Ratul Mahajan
+Todd Millstein
+Vyas Sekar
+George Varghese
+Tianyin Xu
+Xinxin Jin
+Peng Huang
+Yuanyuan Zhou
+Shan Lu
+Long Jin
+Shankar Pasupathy
+Shuai Mu
+Lamont Nelson
+Wyatt Lloyd
+Jinyang Li
+Don’t Get Caught in the Cold
+Warm-up Your JVM: Understand and Eliminate JVM Warm-up Overhead in Data-Parallel Systems
+David Lion
+Adrian Chiu
+Hailong Sun
+Xin Zhuang
+Nikola Grcevski
+Ding Yuan
+Haonan Lu
+Christopher Hodsdon
+Khiem Ngo
+Shuai Mu
+Wyatt Lloyd
+Shengyun Liu
+Paolo Viotti
+Christian Cachin
+Vivien Quéma
+Marko Vukolić
+Xiaowei Zhu
+Wenguang Chen
+Weimin Zheng
+Xiaosong Ma
+Matthew Curtis-Maury
+Vinay Devadas
+Vania Fang
+Aditya Kulkarni
+Atul Adya
+Daniel Myers
+Jon Howell
+Jeremy Elson
+Colin Meek
+Vishesh Khemani
+Stefan Fulger
+Pan Gu
+Lakshminath Bhuvanagiri
+Jason Hunter
+Roberto Peon
+Larry Kai
+Alexander Shraer
+Arif Merchant
+Kfir Lev-Ari
+Sangeetha Abdu Jyothi
+Carlo Curino
+Ishai Menache
+Shravan Matthur Narayanamurthy
+Alexey Tumanov
+Jonathan Yaniv
+Ruslan Mavlyutov
+Inigo Goiri
+Subru Krishnan
+Janardhan Kulkarni
+Sriram Rao
+Michael Chow
+Kaushik Veeraraghavan
+Michael Cafarella
+Jason Flinn
+James Litton
+Anjo Vahldiek-Oberwagner
+Eslam Elnikety
+Deepak Garg
+Bobby Bhattacharjee
+Peter Druschel
+Andrew Quinn
+David Devecsery
+Peter M. Chen
+Jason Flinn
+Ronghui Gu
+Zhong Shao
+Hao Chen
+Xiongnan (Newman) Wu
+Jieung Kim
+Vilhelm Sjöberg
+David Costanzo
+Srinath Setty
+Chunzhi Su
+Jacob R. Lorch
+Lidong Zhou
+Hao Chen
+Parveen Patel
+Jinglei Ren
+EC-Cache: Load-Balanced
+Low-Latency Cluster Caching with Online Erasure Coding
+K. V. Rashmi
+Mosharaf Chowdhury
+Jack Kosaian
+Ion Stoica
+Kannan Ramchandran
+Jiaxin Shi
+Youyang Yao
+Rong Chen
+Haibo Chen
+Feifei Li
+Antonis Papadimitriou
+Ranjita Bhagwan
+Nishanth Chandran
+Ramachandran Ramjee
+Andreas Haeberlen
+Harmeet Singh
+Abhishek Modi
+Saikrishna Badrinarayanan
+David Williams-King
+Graham Gobieski
+Kent Williams-King
+James P. Blake
+Xinhao Yuan
+Patrick Colp
+Michelle Zheng
+Vasileios P. Kemerlis
+Junfeng Yang
+William Aiello
+Martin Abadi
+Paul Barham
+Jianmin Chen
+Zhifeng Chen
+Andy Davis
+Jeffrey Dean
+Matthieu Devin
+Sanjay Ghemawat
+Geoffrey Irving
+Michael Isard
+Manjunath Kudlur
+Josh Levenberg
+Rajat Monga
+Sherry Moore
+Derek G. Murray
+Benoit Steiner
+Paul Tucker
+Vijay Vasudevan
+Pete Warden
+Martin Wicke
+Yuan Yu
+Xiaoqiang Zheng
+Sergei Arnautov
+Bohdan Trach
+Franz Gregor
+Thomas Knauth
+Andre Martin
+Christian Priebe
+Joshua Lind
+Divya Muthukumaran
+Dan O'Keeffe
+Mark L. Stillwell
+David Goltzsche
+Dave Eyers
+Rüdiger Kapitza
+Peter Pietzuch
+Christof Fetzer
+Leonid Ryzhyk
+Adam Walker
+John Keys
+Alexander Legg
+Arun Raghunath
+Michael Stumm
+Mona Vij
+Mu Li
+David G. Andersen
+Jun Woo Park
+Alexander J. Smola
+Amr Ahmed
+Vanja Josifovski
+James Long
+Eugene J. Shekita
+Bor-Yiing Su
+Julian Bangert
+Nickolai Zeldovich
+Xu Zhao
+Yongle Zhang
+David Lion
+Muhammad Faizan Ullah
+Yu Luo
+Ding Yuan
+Michael Stumm
+Stefan C. Müller
+Gustavo Alonso
+Adam Amara
+André Csillaghy
+Wenting Zheng
+Stephen Tu
+Eddie Kohler
+Barbara Liskov
+Chao Xie
+Chunzhi Su
+Manos Kapritsos
+Yang Wang
+Navid Yaghmazadeh
+Lorenzo Alvisi
+Prince Mahajan
+Haogang Chen
+Taesoo Kim
+Xi Wang
+Nickolai Zeldovich
+M. Frans Kaashoek
+Trishul Chilimbi
+Yutaka Suzue
+Johnson Apacible
+Karthik Kalyanaraman
+Jake Wires
+Stephen Ingram
+Zachary Drudi
+Nicholas J. A. Harvey
+Andrew Warfield
+Masoud Saeida Ardekani
+Douglas B. Terry
+Simon Peter
+Jialin Li
+Irene Zhang
+Dan R. K. Ports
+Doug Woos
+Arvind Krishnamurthy
+Thomas Anderson
+Timothy Roscoe
+David Devecsery
+Michael Chow
+Xianzheng Dou
+Jason Flinn
+Peter M. Chen
+Ang Chen
+W. Brad Moore
+Hanjun Xiao
+Andreas Haeberlen
+Linh Thi Xuan Phan
+Micah Sherr
+Wenchao Zhou
+Joseph E. Gonzalez
+Reynold S. Xin
+Ankur Dave
+Daniel Crankshaw
+Michael J.  Franklin
+Ion Stoica
+Shuai Mu
+Yang Cui
+Yang Zhang
+Wyatt Lloyd
+Jinyang Li
+Neha Narula
+Cody Cutler
+Eddie Kohler
+Robert Morris
+Pedro Fonseca
+Rodrigo Rodrigues
+Björn B. Brandenburg
+Thanumalayan Sankaranarayana Pillai
+Vijay Chidambaram
+Ramnatthan Alagappan
+Samer Al-Kiswany
+Andrea C. Arpaci-Dusseau
+Remzi H. Arpaci-Dusseau
+Mai Zheng
+Joseph Tucek
+Dachuan Huang
+Feng Qin
+Mark Lillibridge
+Elizabeth S. Yang
+Bill W Zhao
+Shashank Singh
+Subramanian Muralidhar
+Wyatt Lloyd
+Sabyasachi Roy
+Cory Hill
+Ernest Lin
+Weiwen Liu
+Satadru Pan
+Shiva Shankar
+Viswanath Sivakumar
+Linpeng Tang
+Sanjeev Kumar
+Tanakorn Leesatapornwongsa
+Mingzhe Hao
+Pallavi Joshi
+Jeffrey F. Lukman
+Haryadi S. Gunawi
+Shobana Balakrishnan
+Richard Black
+Austin Donnelly
+Paul England
+Adam Glass
+Dave Harper
+Sergey Legtchenko
+Aaron Ogus
+Eric Peterson
+Antony Rowstron
+Edmund B. Nightingale
+Jeremy Elson
+Jinliang Fan
+Owen Hofmann
+Jon Howell
+Yutaka Suzue
+Aapo Kyrola
+Guy Blelloch
+Carlos Guestrin
+Joseph E. Gonzalez
+Yucheng Low
+Haijie Gu
+Danny Bickson
+Carlos Guestrin
+Daniel B. Giffin
+Amit Levy
+Deian Stefan
+David Terei
+David Mazières
+John C. Mitchell
+Alejandro Russo
+Alan M. Dunn
+Michael Z. Lee
+Suman Jana
+Sangman Kim
+Mark Silberstein
+Yuanzhong Xu
+Vitaly Shmatikov
+Emmett Witchel
+Yang Tang
+Phillip Ames
+Sravan Bhamidipati
+Ashish Bijlani
+Roxana Geambasu
+Nikhil Sarda
+Lenin Ravindranath
+Jitendra Padhye
+Sharad Agarwal
+Ratul Mahajan
+Ian Obermiller
+Shahin Shayandeh
+Sangjin Han
+Scott Marshall
+Byung-Gon Chun
+Sylvia Ratnasamy
+Arjun Narayan
+Andreas Haeberlen
+Xi Wang
+Haogang Chen
+Zhihao Jia
+Nickolai Zeldovich
+M. Frans Kaashoek
+Taesoo Kim
+Ramesh Chandra
+Nickolai Zeldovich
+Guoliang Jin
+Wei Zhang
+Dongdong Deng
+Manos Kapritsos
+Yang Wang
+Vivien Quema
+Allen Clement
+Lorenzo Alvisi
+Mike Dahlin
+Matthew J. Renzelmann
+Asim Kadav
+Michael M. Swift
+Mona Attariyan
+MIchael Chow
+Jason Flinn
+Ramakrishna Kotla
+Tom Rodeheffer
+Indrajit Roy
+Patrick Stuedi
+Benjamin Wester
+Adam Belay
+Andrea Bittau
+Ali Mashtizadeh
+David Terei
+David Mazières
+Christos Kozyrakis
+Mark S. Gordon
+D. Anoushe Jamshidi
+Scott Mahlke
+Z. Morley Mao
+Xu Chen
+Zhenyu Guo
+Xuepeng Fan
+Rishan Chen
+Jiaxing Zhang
+Hucheng Zhou
+Sean McDirmid
+Chang Liu
+Wei Lin
+Jingren Zhou
+Lidong Zhou
+David Isaac Wolinsky
+Henry Corrigan-Gibbs
+Bryan Ford
+Aaron Johnson
+Making Geo-Replicated Systems Fast as Possible
+Consistent when Necessary
+Cheng Li
+Daniel Porto
+Allen Clement
+Johannes Gehrke
+Nuno Preguiça
+Rodrigo Rodrigues
+Ding Yuan
+Soyeon Park
+Peng Huang
+Yang Liu
+Michael M. Lee
+Xiaoming Tang
+Yuanyuan Zhou
+Stefan Savage
+David Shue
+Michael J. Freedman
+Anees Shaikh
+Nate Kushman
+Dina Katabi
+James C. Corbett
+Jeffrey Dean
+Michael Epstein
+Andrew Fikes
+Christopher Frost
+JJ Furman
+Sanjay Ghemawat
+Andrey Gubarev
+Christopher Heiser
+Peter Hochschild
+Wilson Hsieh
+Sebastian Kanthak
+Eugene Kogan
+Hongyi Li
+Alexander Lloyd
+Sergey Melnik
+David Mwaura
+David Nagle
+Sean Quinlan
+Rajesh Rao
+Lindsay Rolig
+Yasushi Saito
+Michal Szymaniak
+Christopher Taylor
+Ruth Wang
+Dale Woodford
+Lucian Popa
+Norbert Egi
+Sylvia Ratnasamy
+Ion Stoica
+Maya Haridasan
+Iqbal Mohomed
+Doug Terry
+Li Zhang
+Ajay Gulati
+Arif Merchant
+Peter J. Varman
+Andreas Haeberlen
+Paarijaat Aditya
+Rodrigo Rodrigues
+Peter Druschel
+Jingyue Wu
+Heming Cui
+Junfeng Yang
+John Erickson
+Madanlal Musuvathi
+Sebastian Burckhardt
+Kirk Olynyk
+Weiwei Xiong
+Soyeon Park
+Jiaqi Zhang
+Yuanyuan Zhou
+Zhiqiang Ma
+Tom Bergan
+Nicholas Hunt
+Luis Ceze
+Steven D. Gribble
+Amittai Aviram
+Shu-Chun Weng
+Sen Hu
+Bryan Ford
+Mona Attariyan
+Jason Flinn
+Dan R.K. Ports
+Irene Zhang
+Samuel Madden
+Barbara Liskov
+Piccolo: Building Fast
+Distributed Programs with Partitioned Tables
+Russell Power
+Jinyang Li
+Roxana Geambasu
+Amit A. Levy
+Tadayoshi Kohno
+Arvind Krishnamurthy
+Henry M. Levy
+Ariel J. Feldman
+William P. Zeller
+Michael J. Freedman
+Edward W. Felten
+Livio Soares
+Michael Stumm
+Doug Beaver
+Sanjeev Kumar
+Harry C. Li
+Jason Sobel
+Peter Vajgel
+Taesoo Kim
+Xi Wang
+Nickolai Zeldovich
+M. Frans Kaashoek
+Daniel Peng
+Frank Dabek
+Ganesh Ananthanarayanan
+Srikanth Kandula
+Albert Greenberg
+Ion Stoica
+Yi Lu
+Bikas Saha
+Edward Harris
+Shuo Tang
+Haohui Mai
+Samuel T. King
+Pradeep Kumar Gunda
+Lenin Ravindranath
+Chandramohan A. Thekkath
+Yuan Yu
+Li Zhuang
+Rob Sherwood
+Glen Gibb
+Kok-Kiong Yap
+Guido Appenzeller
+Nick McKeown
+Guru Parulkar
+William Enck
+Peter Gilbert
+Byung-gon Chun
+Landon P. Cox
+Jaeyeon Jung
+Patrick McDaniel
+Anmol N. Sheth
+Timothy Broomhead
+Laurence Cremean
+Julien Ridoux
+Darryl Veitch
+Prince Mahajan
+Srinath Setty
+Sangmin Lee
+Allen Clement
+Lorenzo Alvisi
+Mike Dahlin
+Michael Walfish
+Silas Boyd-Wickizer
+Austin T. Clements
+Yandong Mao
+Aleksey Pesterev
+M. Frans Kaashoek
+Robert Morris
+Nickolai Zeldovich
+Teemu Koponen
+Martin Casado
+Natasha Gude
+Jeremy Stribling
+Leon Poutievski
+Min Zhu
+Rajiv Ramanathan
+Yuichiro Iwata
+Hiroaki Inoue
+Takayuki Hama
+Scott Shenker
+Daniel Ford
+François Labelle
+Florentina I. Popovici
+Murray Stokely
+Van-Anh Truong
+Luiz Barroso
+Carrie Grimes
+Sean Quinlan
+Muli Ben-Yehuda
+Michael D. Day
+Zvi Dubitzky
+Michael Factor
+Nadav Har'El
+Abel Gordon
+Anthony Liguori
+Orit Wasserman
+Ben-Ami Yassour
+Rodrigo Fonseca
+Prabal Dutta
+John R. Douceur
+Jeremy Elson
+Jon Howell
+Jacob R. Lorch
+Yanhua Mao
+Flavio P. Junqueira
+Keith Marzullo
+Vijayan Prabhakaran
+Thomas L. Rodeheffer
+Lidong Zhou
+Sorav Bansal
+Alex Aiken
+Cristian Cadar
+Daniel Dunbar
+Dawson Engler
+Nickolai Zeldovich
+Hari Kannan
+Michael Dalton
+Christos Kozyrakis
+Lightweight
+High-Resolution Monitoring for Troubleshooting Production Systems
+Sapan Bhatia
+Abhishek Kumar
+Marc E. Fiuczynski
+Larry Peterson
+Diwaker Gupta
+Sangmin Lee
+Michael Vrable
+Stefan Savage
+Alex C. Snoeren
+George Varghese
+Geoffrey M. Voelker
+Amin Vahdat
+Harry C. Li
+Allen Clement
+Mirco Marchetti
+Manos Kapritsos
+Luke Robison
+Lorenzo Alvisi
+Haryadi S. Gunawi
+Abhishek Rajimwale
+Andrea C. Arpaci-Dusseau
+Remzi H. Arpaci-Dusseau
+Ashok Anand
+Sayandeep Sen
+Andrew Krioukov
+Florentina Popovici
+Aditya Akella
+Andrea Arpaci-Dusseau
+Suman Banerjee
+Zhenyu Guo
+Xi Wang
+Jian Tang
+Xuezheng Liu
+Zhilei Xu
+M. Frans Kaashoek
+Dan Williams
+Patrick Reynolds
+Kevin Walsh
+Emin Gün Sirer
+Fred B. Schneider
+Anthony Cozzie
+Frank Stratton
+Hui Xue
+Samuel T. King
+Madanlal Musuvathi
+Shaz Qadeer
+Thomas Ball
+Gerard Basler
+Piramanayagam Arumuga Nainar
+Iulian Neamtiu
+Yin Wang
+Terence Kelly
+Manjunath Kudlur
+Stéphane Lafortune
+Scott Mahlke
+Horatiu Jula
+Daniel Tralamazza
+Cristian Zamfir
+George Candea
+Yuan Ylleyu
+Michael Isard
+Dennis Fetterly
+Mihai Budiu
+Úlfar Erlingsson
+Pradeep Kumar Gunda
+Jon Currey
+Dushyanth Narayanan
+Austin Donnelly
+Eno Thereska
+Sameh Elnikety
+Antony Rowstron
+Matei Zaharia
+Andy Konwinski
+Anthony D. Joseph
+Randy Katz
+Ion Stoica
+Francis M. David
+Ellick M. Chan
+Jeffrey C. Carlyle
+Roy H. Campbell
+Ting Yang
+Tongping Liu
+Emery D. Berger
+Scott F. Kaplan
+J. Eliot B. Moss
+Navendu Jain
+Prince Mahajan
+Dmitry Kit
+Praveen Yalagandula
+Mike Dahlin
+Yin Zhang
+Automating Network Application Dependency Discovery: Experiences
+Limitations
+and New Solutions
+Xu Chen
+Ming Zhang
+Z. Morley Mao
+Paramvir Bahl
+Hyong-youb Kim
+Scott Rixner
+John R. Douceur
+Jon Howell
+Gopalan Sivathanu
+Swaminathan Sundararaman
+Erez Zadok
+Russell Sears
+Eric Brewer
+Silas Boyd-Wickizer
+Haibo Chen
+Rong Chen
+Yandong Mao
+Frans Kaashoek
+Robert Morris
+Aleksey Pesterev
+Lex Stein
+Ming Wu
+Yuehua Dai
+Yang Zhang
+Zheng Zhang
+James Cowling
+Daniel Myers
+Barbara Liskov
+Rodrigo Rodrigues
+Liuba Shrira
+Harry C. Li
+Allen Clement
+Edmund L. Wong
+Jeff Napper
+Indrajit Roy
+Lorenzo Alvisi
+Michael Dahlin
+Bryan Ford
+Jacob Strauss
+Chris Lesniewski-Laas
+Sean Rhea
+Frans Kaashoek
+Robert Morris
+Nickolai Zeldovich
+Silas Boyd-Wickizer
+Eddie Kohler
+David Mazières
+Richard Ta-Min
+Lionel Litty
+David Lie
+Larry Peterson
+Andy Bavier
+Marc E. Fiuczynski
+Steve Muir
+Harsha Madhyastha
+Tomas Isdal
+Michael Piatek
+Colin Dixon
+Thomas Anderson
+Arvind Krishnamurthy
+Arun Venkataramani
+Geoff Werner-Allen
+Konrad Lorincz
+Jeff Johnson
+Jonathan Lees
+Matt Welsh
+Edmund B. Nightingale
+Kaushik Veeraraghavan
+Peter M. Chen
+Jason Flinn
+Charles Reis
+John Dunagan
+Helen J. Wang
+Opher Dubrovsky
+Saher Esmeir
+Nikolai Joukov
+Avishay Traeger
+Rakesh Iyer
+Charles P. Wright
+Ting Yang
+Emery D. Berger
+Scott F. Kaplan
+J. Eliot B. Moss
+EXPLODE: A Lightweight
+General System for Finding Serious Storage System Errors
+Junfeng Yang
+Can Sar
+Dawson Engler
+Miguel Castro
+Manuel Costa
+Tim Harris
+Ted Kremenek
+Paul Twohey
+Godmar Back
+Andrew Ng
+Fay Chang
+Jeffrey Dean
+Sanjay Ghemawat
+Wilson C. Hsieh
+Deborah A. Wallach
+Mike Burrows
+Tushar Chandra
+Andrew Fikes
+Robert E. Gruber
+Cheng Tien Ee
+Rodrigo Fonseca
+Sukun Kim
+Daekyeong Moon
+Arsalan Tavakoli
+David Culler
+Scott Shenker
+Ion Stoica
+Ceph: A Scalable
+High-Performance Distributed File System
+Sage A. Weil
+Scott A. Brandt
+Ethan L. Miller
+Darrell D. E. Long
+Carlos Maltzahn
+Feng Zhou
+Jeremy Condit
+Zachary Anderson
+Ilya Bagrak
+Rob Ennals
+Matthew Harren
+George Necula
+Úlfar Erlingsson
+Martín Abadi
+Michael Vrable
+Mihai Budiu
+George C. Necula
+Chad Verbowski
+Emre Kıcıman
+Arunvijay Kumar
+Brad Daniels
+Shan Lu
+Juhan Lee
+Yi-Min Wang
+Roussi Roussev
+Robbert van Renesse
+Fred B. Schneider
+Jinyuan Li
+Maxwell Krohn
+David Mazières
+Dennis Shasha
+Chris Gniady
+Ali R. Butt
+Y. Charlie Hu
+David P. Olshefski
+Erich Nahum
+Herbert Bos
+Willem de Bruijn
+Mihai Cristea
+Trung Nguyen
+Georgios Portokalidis
+John MacCormick
+Nick Murphy
+Marc Najork
+Chandramohan A. Thekkath
+Lidong Zhou
+Jeffrey Dean
+Sanjay Ghemawat
+John Dunagan
+Nicholas J. A. Harvey
+Michael B. Jones
+Dejan Kostic
+Marvin Theimer
+Alec Wolman
+KyoungSoo Park
+Vivek S. Pai
+Zhe Wang
+Michael Walfish
+Jeremy Stribling
+Maxwell Krohn
+Hari Balakrishnan
+Robert Morris
+Scott Shenker
+Ira Cohen
+Jeffrey S. Chase
+Moises Goldszmidt
+Terence Kelly
+Julie Symons
+Helen J. Wang
+John C. Platt
+Yu Chen
+Ruyun Zhang
+Yi-Min Wang
+Paul Barham
+Austin Donnelly
+Rebecca Isaacs
+Richard Mortier
+Junfeng Yang
+Paul Twohey
+Dawson Engler
+Madanlal Musuvathi
+Michael M. Swift
+Muthukaruppan Annamalai
+Brian N. Bershad
+Henry M. Levy
+Joshua LeVasseur
+Volkmar Uhlig
+Jan Stoess
+Stefan Götz
+George Candea
+Shinichi Kawamoto
+Yuichi Fujiki
+Greg Friedman
+Armando Fox
+Kiran Nagaraja
+Fábio Oliveira
+Ricardo Bianchini
+Richard P. Martin
+Thu D. Nguyen
+Andrew Whitaker
+Richard S. Cox
+Steven D. Gribble
+Ming Zhang
+Chi Zhang
+Vivek Pai
+Larry Peterson
+Randy Wang
+Zhenmin Li
+Shan Lu
+Suvda Myagmar
+Yuanyuan Zhou
+Sumeet Singh
+Cristian Estan
+George Varghese
+Stefan Savage
+Muthian Sivathanu
+Lakshmi N. Bairavasundaram
+Haryadi S. Gunawi
+Andrea C. Arpaci-Dusseau
+Remzi H. Arpaci-Dusseau
+Edmund B. Nightingale
+Jason Flinn
+Krishna P. Gummadi
+Harsha V. Madhyastha
+David Wetherall
+Martin Rinard
+Cristian Cadar
+Daniel Dumitran
+Daniel M. Roy
+Tudor Leu
+William S. Beebee
+Jr.
+Stefan Saroiu
+Krishna P. Gummadi
+Richard J. Dunn
+Henry M. Levy
+Limin Wang
+Vivek Pai
+Steven Osman
+Dinesh Subhraveti
+Gong Su
+Jason Nieh
+Chris Hawblitzel
+Thorsten von Eicken
+Practical
+Transparent Operating System Support for Superpages
+Juan Navarro
+Sitaram Iyer
+Alan Cox
+Samuel Madden
+Michael J. Franklin
+Joseph M. Hellerstein
+Wei Hong
+Ashvin Goel
+Luca Abeni
+Charles Krasic
+Jim Snow
+Jonathan Walpole
+Andrew Whitaker
+Marianne Shaw
+Steven D. Gribble
+George W. Dunlap
+Samuel T. King
+Sukru Cinar
+Murtaza A. Basrai
+Peter M. Chen
+Kai Shen
+Hong Tang
+Tao Yang
+University of California
+Lingkun Chu
+Bhuvan Urgaonkar
+Prashant Shenoy
+Timothy Roscoe
+FARSITE: Federated
+Available
+and Reliable Storage for an Incompletely Trusted Environment
+Atul Adya
+William J. Bolosky
+Miguel Castro
+Gerald Cermak
+Ronnie Chaiken
+John R. Douceur
+Jon Howell
+Jacob R. Lorch
+Marvin Theimer
+Roger P. Wattenhofer
+Yasushi Saito
+Christos Karamanolis
+Magnus Karlsson
+Mallik Mahalingam
+Athicha Muthitacharoen
+Robert Morris
+Thomer M. Gil
+Benjie Chen
+Xiaohu Qie
+Ruoming Pang
+Larry Peterson
+Constantine P. Sapuntzakis
+Ramesh Chandra
+Ben Pfaff
+Jim Chow
+Monica S. Lam
+Mendel Rosenblum
+Sanjeev Kumar
+Kai Li
+Madanlal Musuvathi
+David Y.W. Park
+Andy Chou
+Dawson R. Engler
+David L. Dill
+Andreas Weissel
+Bjórn Beutel
+Frank Bellosa
+Krisztián Flautner
+Trevor Mudge
+Brian White
+Leigh Stoller
+Robert Ricci
+Shashi Guruprasad
+Mac Newbold
+Mike Hibler
+Chad Barb
+Abhijeet Joglekar
+Amin Vahdat
+Ken Yocum
+Kevin Walsh
+Priya Mahadevan
+Dejan Kostic
+Jeff Chase
+David Becker
+Landon P. Cox
+Christopher D. Murray
+Brian D. Noble
+Jeremy Elson
+Lewis Girod
+Deborah Estrin
+Miguel Castro
+Barbara Liskov
+David E. Lowell
+Subhachandra Chandra
+Peter Chen
+Scalable
+Distributed Data Structures for Internet Service Construction
+Steven D. Gribble
+Eric A. Brewer
+Joseph M. Hellerstein
+Processes in KaffeOS: Isolation
+Resource Management
+and Sharing in Java
+Godmar Back
+Wilson H. Hsieh
+Jay Lepreau
+Alastair Reid
+Matthew Flatt
+Leigh Stoller
+Eric Eide
+Fabrice Mérillon
+Laurent Réveillère
+Charles Consel
+Renaud Marlet
+Gilles Muller
+Abhishek Chandra
+Micah Adler
+Pawan Goyal
+Prashant Shenoy
+Julita Corbalán
+Xavier Martorell
+Jesús Labarta
+Dirk Grunwald
+Philip Levis
+Keith I. Farkas
+Charles B. Morrey III
+Michael Neufeld
+Christopher R. Lumb
+Jiri Schindler
+Gregory R. Ganger
+Erik Riedel
+David F. Nagle
+Rodney Van Meter
+Minxi Gao
+Umesh Maheshwari
+Radek Vingralek
+Bill Shapiro STAR Lab
+Jon Howell
+David Kotz
+John D. Strunk
+Garth R. Goodson
+Michael L. Scheinholtz
+Craig A. N. Soules
+Kevin Fu
+M. Frans Kaashoek
+David Mazières
+John Jannotti
+David K. Gifford
+Kirk L. Johnson
+M. Frans Kaashoek
+James W. O'Toole
+Jr.
+John Linwood Griffin
+Steven W. Schlosser
+Xiang Yu
+Benjamin Gum
+Yuqun Chen
+Randolph Y. Wang
+Kai Li
+Arvind Krishnamurthy
+Thomas E. Anderson
+A Low-Overhead
+High-Performance Unified Buffer Management Scheme That Exploits Sequential and Looping References
+Jong Min Kim
+Jongmoo Choi
+Jesung Kim
+Sam H. Noh
+Sang Lyul Min
+Yookun Cho
+Chong Sang Kim
+Angela Demke Brown
+Todd C. Mowry
+David Andersen
+Deepak Bansal
+Dorothy Curtis
+Srinivasan Seshan
+Hari Balakrishnan
+Darrell Anderson
+Jeff Chase
+Amin Vahdat
+Barton P. Miller
+Ariel Tamches
+David C. Steere
+Ashvin Goel
+Joshua Gruenberg
+Dylan McNamee
+Calton Pu
+Jonathan Walpole
+Erik Cota-Robles
+James P. Held
+Galen C. Hunt
+Michael L. Scott
+Ayal Itzkovitz
+Assaf Schuster
+Cort Dougan
+Paul Mackerras
+Victor Yodaiken
+Norman C. Hutchinson
+University of British Columbia
+Stephen Manley
+Michael Federwisch
+Guy Harris
+Dave Hitz
+Steven Kleiman
+Sean O'Malley
+Björn Grönvall
+Assar Westerlund
+Stephen Pink
+Burra Gopal
+Udi Manber
+Vivek S. Pai
+Peter Druschel
+Willy Zwaenepoel
+Gaurav Banga
+Jeffrey C. Mogul
+Oliver Spatscheck
+Larry L. Peterson
+Ben Gamsa
+Orran Krieger
+Jonathan Appavoo
+Michael Stumm
+Bryan Ford
+Mike Hibler
+Jay Lepreau
+Roland McGrath
+Patrick Tullmann
+Fay Chang
+Garth A. Gibson
+David Mosberer
+Larry L. Peterson
+Peter Druschel
+Gaurav Banga
+Gregory R. Ganger
+Hector Brice~o
+M. Frans Kaashoek
+Prasenjit Sarkar
+John Hartman
+Dejan Perkovic
+Pete Keleher
+Manuel Costa
+Paulo Guedes
+Manuel Sequeira
+Nuno Neves
+Miguel Castro
+Jason Nieh
+Monica S. Lam
+Patrick Sobalvarro
+Scott Pakin
+Andrew Chien
+William Weihl
+Patty Kostkova
+Kevin Murray
+Tim Wilkinson
+Paulo Ferreira
+Marc Shapiro
+Tracy Kimbrel
+Andrew Tomkins
+R. Hugo Patterson
+Brian Bershad
+Pei Cao
+Edward W. Felten
+Garth Gibson
+Anna R. Karlin
+Kai Li
+Anurag Acharya
+M. Ranganathan
+Shamik Sharma
+Joel Saltz
+M. Castro
+A. Adya
+B. Liskov
+U. Maheshwari
+A. C. Myers
+Pawan Goyal
+Sriram S. Rao
+Prashant J. Shenoy
+Marrik M. Vin
+Bryan Ford
+Sai R. Susarla
+Bryan Ford
+Mike Hibler
+Jay Lepreau
+Patrick Tullman
+Godmar Back
+Steven Clawson
+Yasuhiro Endo
+Zheng Wang
+J. Bradley Chen
+Margo I. Seltzer
+Przemyslaw Pardyak
+Brian Bershad
+Margo I. Seltzer
+Yasuhiro Endo
+Christopher Small
+Keith A. Smith
+Greg Buzzard
+David Jacobson
+Milon Mackey
+Scott Marovich
+John Wilkes
+Jose Carlos Brustoloni
+Peter Steenkiste
+Sharon E. Perl
+Richard L. Sites
+Dylan McNamee
+Vivek Narasayya
+Ashutosh Tiwary
+Henry Levy
+Jeffrey Chase
+Yong Gao
+Lance Berc
+Sanjay Ghemawhat
+Monika Henzinger
+Shun-Tak Leung
+Dick Sites
+Mark Vandevoorde
+Carl Waldspurger
+Bill Weihl
+Amin Vahdat
+Michael Dahlin
+Paul Eastham
+Thomas Anderson
+Jeanna Neefe Matthews
+Randoph Y. Wang
+Drew S. Roselly
+Thomas Anderson
+Elizabeth Borowsky
+Richard Golding
+Arif Merchant
+Elizabeth Shriver
+Mirjana Spasojevic
+John Wilkes
+Sean Dorward
+Rob Pike
+Dave Presotto
+Howard Trickey
+Phil Winterbottom
+Carl A. Waldspurger
+William E. Weihl
+Mark Weiser
+Brent Welch
+Alan Demers
+Scott Shenker
+James O'Toole
+Liuba Shrira
+Gregory R. Ganger
+Yale N. Patt
+Povl T. Koch
+Robert J. Fowler
+Eric Jul
+Matthew J. Zekauskas
+Wayne A. Sawdon
+Brian N. Bershad
+Daniel J. Scales
+Monica S. Lam
+Erich M. Nahum
+David J. Yates
+James F. Kurose
+Don Towsley
+Ronald C. Unrau
+Orran Krieger
+Benjamin Gamsa
+Michael Stumm
+Chao-Hsien Lee
+Meng Chang Chen
+Ruei-Chuan Chang
+Pei Cao
+Edward W. Felten
+Kai Li
+David R. Cheriton
+Kenneth J. Duda
+Vincent W. Freeh
+David K. Lowenthal
+Gregory R. Andrews
+Michael J. Feeley
+Jeffrey S. Chase
+Vivek R. Narasayya
+Henry M. Levy
+Michael D. Dahlin
+Randolph Y. Wang
+Thomas E. Anderson
+David A. Patterson
+Garth A. Gibson
+David F. Nagle
+Khalil Amiri
+Fay W. Chang
+Eugene M. Feinberg
+Howard Gobioff
+Chen Lee
+Berend Ozceri
+David Rochberg
+J. Zelenka
+Fred Douglis
+Ramón Cáceres
+Frans Kaashoek
+Kai Li
+Brian Marsh
+Joshua A. Tauber
+Kavita Bala
+M. Frans Kaashoek
+William E. Weihl
+Andrew Baumann
+Marcus Peinado
+Galen Hunt
+Eric Boutin
+Jaliya Ekanayake
+Wei Lin
+Bing Shi
+Jingren Zhou
+Zhengping Qian
+Ming Wu
+Lidong Zhou
+Shivaram Venkataraman
+Aurojit Panda
+Ganesh Ananthanarayanan
+Michael J.  Franklin
+Ion Stoica
+Sangman Kim
+Seonggu Huh
+Xinya Zhang
+Yige Hu
+Amir Wated
+Emmett Witchel
+Mark Silberstein
+Sebastian Angel
+Hitesh Ballani
+Thomas Karagiannis
+Greg O’Shea
+Eno Thereska
+Sudharsan Seshadri
+Mark Gahagan
+Sundaram Bhaskaran
+Trevor Bunker
+Arup De
+Yanqin Jin
+Yang Liu
+Steven Swanson
+Lanyue Lu
+Yupu Zhang
+Thanh Do
+Samer Al-Kiswany
+Andrea C. Arpaci-Dusseau
+Remzi H. Arpaci-Dusseau
+Irene Zhang
+Adriana Szekeres
+Dana Van Aken
+Isaac Ackerman
+Steven D. Gribble
+Arvind Krishnamurthy
+Henry M. Levy
+Chris Hawblitzel
+Jon Howell
+Jacob R. Lorch
+Arjun Narayan
+Bryan Parno
+Danfeng Zhang
+Brian Zill
+Scott Moore
+Christos Dimoulas
+Dan King
+Stephen Chong
+Decoupling Cores
+Kernels
+and Operating Systems
+Gerd Zellweger
+Simon Gerber
+Kornilios Kourtis
+Timothy Roscoe
+Xi Wang
+David Lazar
+Nickolai Zeldovich
+Adam Chlipala
+Zachary Tatlock
+Arun Kumar
+Randy Wright
+Ennan Zhai
+Ruichuan Chen
+David Isaac Wolinsky
+Bryan Ford
+Michael Chow
+David Meisner
+Jason Flinn
+Daniel Peek
+Thomas F. Wenisch
+Ding Yuan
+Yu Luo
+Xin Zhuang
+Guilherme Renna Rodrigues
+Xu Zhao
+Yongle Zhang
+Pranay U. Jain
+Michael Stumm
+Riley Spahn
+Jonathan Bell
+Michael Lee
+Sravan Bhamidipati
+Roxana Geambasu
+Gail Kaiser
+Deian Stefan
+Edward Z. Yang
+Petr Marchenko
+Alejandro Russo
+Dave Herman
+Brad Karp
+David Mazieres
+Volodymyr Kuznetsov
+Laszlo  Szekeres
+Mathias Payer
+George Candea
+R. Sekar
+Dawn Song
+Adam Belay
+George Prekas
+Ana Klimovic
+Samuel Grossman
+Christos Kozyrakis
+Edouard Bugnion
+Frank McSherry
+Michael Isard
+Derek G. Murray
+Van Oleson
+Karsten Schwan
+Andreas Haeberlen
+Jochen Liedtke
+Yoonho Park
+Lars Reuther
+Volkmar Uhlig
+Dmitry Mikulin
+Murali Vijayasundaram
+Loreena Wong
