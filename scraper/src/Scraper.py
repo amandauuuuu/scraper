@@ -12,7 +12,7 @@ headers = {
 }
 
 # 禁用 SSL 验证
-page = requests.get('https://www.usenix.org/publications/proceedings/osdi', headers=headers, verify=False)
+page = requests.get('the website address you want to scrap', headers=headers, verify=False)
 
 # 解析 HTML 内容
 soup = BeautifulSoup(page.text, 'html.parser')
